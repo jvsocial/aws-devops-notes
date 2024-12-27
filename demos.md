@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "AWS DevOps Demos "
 permalink: /demos
 ---
